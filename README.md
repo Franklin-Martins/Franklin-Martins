@@ -1,6 +1,6 @@
 ### Full Stack Developer
 
-- 🌱 I’m currently learning Node, React and FLutter
+- 🌱 I’m currently learning Node, React, React-Native and FLutter
 - 🤔 I’m looking for help with personal marketing
 - ⚡ Fun fact: I am a follower of Dr. Heinz Doofenshmirtz's teachings
 
