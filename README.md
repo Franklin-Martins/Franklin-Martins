@@ -1,8 +1,7 @@
 ### Full Stack Developer
 
-- 🌱 I’m currently learning Node, React, React-Native and FLutter
-- 🤔 I’m looking for help with personal marketing
-- ⚡ Fun fact: I am a follower of Dr. Heinz Doofenshmirtz's teachings
+- 🌱 TypeScript, Golang, Java, C/C++, Dart, Python, PHP
+- ⚡ Fun fact: I know how to solve Rubik
 
 👔 [linkedin](https://www.linkedin.com/in/franklin-da-silva-martins-236a8b142) **|**
 📷[instagram](https://www.instagram.com/franklin_martinsxd)
